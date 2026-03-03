@@ -1,0 +1,17 @@
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\application\services\EmprestimoService.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\application\ports\ClienteRepository.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\infrastructure\memory\InMemoryClienteRepository.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\application\services\PoliticaMultaPadrao.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\Main.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\domain\Cliente.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\domain\Devolucao.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\application\ports\DevolucaoRepository.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\application\services\PoliticaMulta.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\infrastructure\memory\InMemoryDevolucaoRepository.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\application\ports\LivroRepository.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\application\services\DevolucaoService.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\infrastructure\memory\InMemoryEmprestimoRepository.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\domain\Emprestimo.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\application\ports\EmprestimoRepository.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\domain\Livro.java
+C:\Users\kamil\Downloads\ETAPA_6_ENTREGA\biblioteca-core\src\main\java\br\com\doceleitura\infrastructure\memory\InMemoryLivroRepository.java
