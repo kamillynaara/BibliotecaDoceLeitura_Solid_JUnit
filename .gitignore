@@ -1,0 +1,5 @@
+*.docx
+target/
+.idea/
+.vscode/
+Etapa06/MaterialPIAnterior/
